@@ -1,0 +1,12 @@
+/*CSS: element, id, class 
+selector{    
+property:value; 
+}
+*/ 
+body{    
+background-color: lightgreen
+} h1{    
+text-decoration:underline
+} 
+#header{    
+text-align:center;}
