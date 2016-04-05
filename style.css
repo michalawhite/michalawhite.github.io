@@ -1,3 +1,4 @@
+
 /*CSS: element, id, class 
 selector{    
 property:value; 
@@ -9,4 +10,20 @@ background-color: #e69d8e
 text-decoration:underline
 } 
 #header{    
-text-align:right;}
+text-align:center;}
+<style type="text/css">
+
+body {
+	background-color: #CCC;
+	margin:80px 80px 100px 100px;
+}
+div#fixedheader {
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#633426;
+	padding:20px;
+}
+</style>
