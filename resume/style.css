@@ -1,0 +1,51 @@
+
+/*CSS: element, id, class 
+selector{    
+property:value; 
+}
+*/ 
+
+body{    
+background-color: #e69d8e
+} h1{    
+text-decoration:underline
+} 
+#header{    
+text-align:center;}
+<style type="text/css">
+
+body {
+	background-color: #CCC;
+	margin:80px 80px 100px 100px;
+}
+
+div#fixedheader {
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#633426;
+	padding:20px;
+}
+
+ul#menu {
+    padding: 0;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: #633426;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: #ff8361;
+}
+</style>
