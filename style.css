@@ -26,4 +26,24 @@ div#fixedheader {
 	background:#633426;
 	padding:20px;
 }
+
+ul#menu {
+    padding: 0;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: #633426;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: #ff8361;
+}
 </style>
