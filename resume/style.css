@@ -57,4 +57,9 @@ ul#menu li a {
 ul#menu li a:hover {
     background-color: #ff8361;
 }
+
+h1 {
+    text-align: center;
+    color: blue;
+}
 </style>
