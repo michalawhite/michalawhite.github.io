@@ -57,4 +57,20 @@ ul#menu li a {
 ul#menu li a:hover {
     background-color: #ff8361;
 }
+
+table {
+  border-collapse: separate;
+  border-spacing: 100px 0;
+}
+
+td {
+  padding: 20px 0;
+}
+
+td:nth-child(2) {
+    border-right: 50px solid transparent;
+    -webkit-background-clip: padding;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+}
 </style>
