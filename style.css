@@ -89,4 +89,9 @@ ul#menu li a:hover {
   margin:0;
 }
 
+#container {width: 1200px;
+padding: auto;
+margin: auto; 
+}
+
 </style>
